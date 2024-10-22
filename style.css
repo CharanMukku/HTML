@@ -1,0 +1,22 @@
+  html,body {
+    height: 100%; 
+    margin:0%
+  }
+  
+  .parent {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100%; 
+  }
+  
+  .raju {
+    color: rgb(124, 67, 67);
+    padding: 10px;
+  }
+  
+  .main {
+    color: rgb(13, 5, 161);
+    display: flex;
+  }
+  
